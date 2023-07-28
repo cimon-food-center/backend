@@ -1,0 +1,12 @@
+{
+    "app": {
+        "port": ":8080"
+    },
+    "db": {
+        "host": "localhost",
+        "port": "8000",
+        "user": "admin",
+        "password": "password123",
+        "name": "db_cimon-food-center"
+    }
+}
